@@ -78,7 +78,7 @@ if file:
         con2.metric("Total Money Out", MONEYFORMAT.format(price=totalMoneyOut), "😱😱😱", delta_arrow="off")
 
         con3 = st.container(border=True)
-        con3.metric("Final Balance At The End Of The Month", MONEYFORMAT.format(price=finalBalance), percentageChangeB)
+        con3.metric("Final Balance At The End Of The Month", MONEYFORMAT.format(price=finalBalance), str(percentageChangeB) + "%")
 
     p1, p2, p3 = st.columns((2, 2, 2))
 
@@ -128,4 +128,5 @@ if file:
         
 else:
     st.write("gimme something")
+
 
