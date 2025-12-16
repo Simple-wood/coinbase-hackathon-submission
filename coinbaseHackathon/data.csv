@@ -1,0 +1,38 @@
+Date,Transaction Description,Money In,Money Out,Balance
+01/12/2025,Opening Balance,0.00,0.00,120.00
+01/12/2025,Greggs,0.00,3.45,116.55
+02/12/2025,Bus Fare,0.00,2.50,114.05
+02/12/2025,Spotify Subscription,0.00,9.99,104.06
+03/12/2025,McDonalds,0.00,6.89,97.17
+04/12/2025,Transfer from Mum,20.00,0.00,117.17
+04/12/2025,Amazon Marketplace,0.00,18.99,98.18
+05/12/2025,Bus Fare,0.00,2.50,95.68
+06/12/2025,Part-Time Job Wages,85.00,0.00,180.68
+06/12/2025,KFC,0.00,7.49,173.19
+07/12/2025,Coffee Shop,0.00,4.10,169.09
+08/12/2025,Bus Fare,0.00,2.50,166.59
+09/12/2025,Apple iCloud Storage,0.00,0.99,165.60
+10/12/2025,Uber Ride,0.00,11.25,154.35
+10/12/2025,McDonalds,0.00,5.99,148.36
+11/12/2025,Transfer to Friend,0.00,15.00,133.36
+12/12/2025,Bus Fare,0.00,2.50,130.86
+13/12/2025,Clothes Store,0.00,32.00,98.86
+14/12/2025,Birthday Present,25.00,0.00,123.86
+15/12/2025,Netflix Subscription,0.00,15.99,107.87
+16/12/2025,Greggs,0.00,2.95,104.92
+17/12/2025,Bus Fare,0.00,2.50,102.42
+18/12/2025,Amazon Marketplace,0.00,24.50,77.92
+19/12/2025,Part-Time Job Wages,90.00,0.00,167.92
+19/12/2025,Takeaway Pizza,0.00,12.99,154.93
+20/12/2025,Coffee Shop,0.00,3.80,151.13
+21/12/2025,Bus Fare,0.00,2.50,148.63
+22/12/2025,Transfer to Savings,0.00,30.00,118.63
+23/12/2025,Christmas Gift,0.00,40.00,78.63
+24/12/2025,Transfer from Mum,50.00,0.00,128.63
+24/12/2025,Online Game Purchase,0.00,19.99,108.64
+26/12/2025,Uber Ride,0.00,14.50,94.14
+27/12/2025,McDonalds,0.00,6.49,87.65
+28/12/2025,Part-Time Job Wages,95.00,0.00,182.65
+29/12/2025,Clothes Store,0.00,45.00,137.65
+30/12/2025,Bus Fare,0.00,2.50,135.15
+31/12/2025,Transfer to Savings,0.00,50.00,85.15
