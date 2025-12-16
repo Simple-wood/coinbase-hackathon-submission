@@ -1,6 +1,6 @@
-streamlit>=1.30
-pandas>=2.0
-torch==2.1.0
-transformers>=4.36
-plotly>=5.18
-sentencepiece
+streamlit==1.52.1
+pandas==2.3.3
+torch==2.9.1
+transformers==4.57.3
+plotly==6.5.0
+
